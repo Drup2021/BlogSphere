@@ -22,9 +22,9 @@ export const BlogCard = ({
                 <div className="flex justify-center flex-col pl-2">
                     <Circle />
                 </div>
-                {/* <div className="pl-2 font-thin text-slate-500 text-sm flex justify-center flex-col">
+                <div className="pl-2 font-thin text-slate-500 text-sm flex justify-center flex-col">
                     {publishedDate}
-                </div> */}
+                </div>
             </div>
             <div className="text-xl font-semibold pt-2">
                 {title}
