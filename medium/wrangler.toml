@@ -2,8 +2,8 @@ name = "medium"
 compatibility_date = "2023-12-01"
 
 [vars]
-DATABASE_URL=" prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMTM0M2Y0ZTktNWUyMC00NjEzLWFmOWEtMjUyMjQ5YTJmN2U3IiwidGVuYW50X2lkIjoiNDcxNDk1ZjA5ZDc0MmI2OWI2MzdkMjlmMjZhOTYxN2RiM2Y3YTA1Y2ZmYWE2ZjQ2ZjJlZjE1ODM1YmU1YjU0NCIsImludGVybmFsX3NlY3JldCI6IjEyNWRiYWFkLWNlZjUtNGJhNi05ZTk5LTU1ZDM1Njk0NGExYyJ9.lpWjyiE128Le1kn8zZGwMq8gzCT04OhKvTSXzRwtFC8"
-JWT_SECRET = "drup123"
+DATABASE_URL=""
+JWT_SECRET = ""
 
 
 # [[kv_namespaces]]
