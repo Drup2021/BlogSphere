@@ -40,6 +40,7 @@ userRouter.post('/signup', async (c) => {
       const jwt = await sign({
         id : user.id,
       },c.env.JWT_SECRET)
+
       return c.text(jwt)
     }
     catch(e){
