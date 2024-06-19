@@ -1,4 +1,4 @@
-# Medium Blogging Site Clone 
+# BlogSphere
 
 
 Deployed site : https://medium-8qxj.vercel.app/signup <br>
